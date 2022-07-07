@@ -28,10 +28,10 @@
 [Clique aqui para acessar o circuito no falstad](https://tinyurl.com/2zzzodnc)
 
 
-## Esquematico e PCB no Eagle
+## Esquematico e Board no Eagle
 
-### -Esquematico
+### - Esquematico
 ![](https://github.com/g-faccini/ProjetoFonte/blob/main/Esquematico.PNG "Esquemático no Eagle")
 
-### -PCB
+### - Board
 ![](https://github.com/g-faccini/ProjetoFonte/blob/main/PCB.PNG "Esquemático no Eagle")
