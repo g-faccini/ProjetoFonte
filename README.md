@@ -6,7 +6,7 @@
   1. Diminuir a tensão a partir de um transformador;
   2. Retificar a tensão a partir de uma ponte de diodos, pois a tensão que chega da tomada é alternada;
   3. Fazer com que a variação de tensão seja a menor possível com o uso de um capacitor;
-  4. "Cortar" a tensão em um ponto em que não haja oscilação, tornando a tensão constante (essa etapa é feito com o uso de um diodo zener);
+  4. "Cortar" a tensão em um ponto em que não haja oscilação, tornando a tensão constante (essa etapa é feita com o uso de um diodo zener);
   
 
 ## Componentes usados
