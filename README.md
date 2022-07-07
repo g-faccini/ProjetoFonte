@@ -23,7 +23,7 @@
 
 ## Circuito no falstad
 
-![alt text](https://github.com/g-faccini/ProjetoFonte/blob/main/CircuitoFalstad.PNG "Circuito falstad")
+![](https://github.com/g-faccini/ProjetoFonte/blob/main/CircuitoFalstad.PNG "Circuito falstad")
 
 [Clique aqui para acessar o circuito no falstad](https://tinyurl.com/2zzzodnc)
 
@@ -31,5 +31,7 @@
 ## Esquematico e PCB no Eagle
 
 ### -Esquematico
+![](https://github.com/g-faccini/ProjetoFonte/blob/main/Esquematico.PNG "Esquemático no Eagle")
 
 ### -PCB
+![](https://github.com/g-faccini/ProjetoFonte/blob/main/PCB.PNG "Esquemático no Eagle")
