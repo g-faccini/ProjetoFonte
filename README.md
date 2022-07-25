@@ -3,8 +3,8 @@
   A fonte recebe uma tensão de 127V ou 220V RMS da tomada e converte em uma tensão constante que pode ser usada nos dispositivos.
   
   A fonte funciona basicamente em 4 etapas: 
-  1. Diminuir a tensão a partir de um transformador;
-  2. Retificar a tensão a partir de uma ponte de diodos, pois a tensão que chega da tomada é alternada;
+  1. Usar um transformados para diminuir a tensão da tomada de 127V RMS para uma tensão menor (~25V-15V) para que possa ser usada pelo circuito;
+  2. Usar uma ponte retificadora (ou ponte de diodos) para transformar a corrente alternada que sai do transformador em corrente contínua;
   3. Fazer com que a variação de tensão seja a menor possível com o uso de um capacitor;
   4. "Cortar" a tensão em um ponto em que não haja oscilação, tornando a tensão constante (essa etapa é feita com o uso de um diodo zener);
   
@@ -37,10 +37,11 @@
 ![](https://github.com/g-faccini/ProjetoFonte/blob/main/PCB.PNG "Esquemático no Eagle")
 
 ## Fotos do Projeto final
+### 1.Fonte na tensão máxima (perto de 12V)
 ![](https://github.com/g-faccini/ProjetoFonte/blob/main/Tmax.jpeg)
-#####Fonte na tensão máxima (perto de 12V)
 
 
+### 2.Fonte na tensão mínima (perto de 3V)
 ![](https://github.com/g-faccini/ProjetoFonte/blob/main/Tmin.jpeg)
-#####Fonte na tensão mínima (perto de 3V)
+
 
