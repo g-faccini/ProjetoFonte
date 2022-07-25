@@ -23,7 +23,7 @@
 
 ## Circuito no falstad
 
-![](https://github.com/g-faccini/ProjetoFonte/blob/main/CircuitoFalstad.PNG "Circuito falstad")
+![](https://github.com/g-faccini/ProjetoFonte/blob/main/CircuitoFald.PNG "Circuito falstad")
 
 [Clique aqui para acessar o circuito no falstad](https://tinyurl.com/2bvrmt42)
 
