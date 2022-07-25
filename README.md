@@ -1,6 +1,6 @@
 # Projeto Fonte Tensão Ajustável
   O objetivo do projeto era fazer uma fonte de tensão ajustável de 3V a 12V que fornecesse pelo menos 100mA de corrente na saída.
-  A fonte recebe uma tensão de 127V ou 220V RMS da tomada e converte em uma tensão constante que pode ser usada nos dispositivos.
+  A fonte recebe uma tensão de 127V RMS da tomada e converte em uma tensão constante que pode ser utilizada nos dispositivos.
   
   A fonte funciona basicamente em 4 etapas: 
   1. Usar um transformados para diminuir a tensão da tomada de 127V RMS para uma tensão menor (~25V-15V) para que possa ser usada pelo circuito;
