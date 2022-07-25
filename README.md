@@ -37,6 +37,10 @@
 ![](https://github.com/g-faccini/ProjetoFonte/blob/main/PCB.PNG "Esquemático no Eagle")
 
 ## Fotos do Projeto final
-![Fonte na tensão máxima (perto de 12V)](https://github.com/g-faccini/ProjetoFonte/blob/main/Tmax.jpeg)
-![Fonte na tensão mínima (perto de 3V)](https://github.com/g-faccini/ProjetoFonte/blob/main/Tmin.jpeg)
+![](https://github.com/g-faccini/ProjetoFonte/blob/main/Tmax.jpeg)
+#####Fonte na tensão máxima (perto de 12V)
+
+
+![](https://github.com/g-faccini/ProjetoFonte/blob/main/Tmin.jpeg)
+#####Fonte na tensão mínima (perto de 3V)
 
