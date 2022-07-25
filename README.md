@@ -25,7 +25,7 @@
 
 ![](https://github.com/g-faccini/ProjetoFonte/blob/main/CircuitoFalstad.PNG "Circuito falstad")
 
-[Clique aqui para acessar o circuito no falstad](https://tinyurl.com/2zzzodnc)
+[Clique aqui para acessar o circuito no falstad](https://tinyurl.com/2bvrmt42)
 
 
 ## Esquematico e Board no Eagle
