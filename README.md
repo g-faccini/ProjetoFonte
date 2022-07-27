@@ -44,4 +44,10 @@
 ### 2.Fonte na tensão mínima (perto de 3V)
 ![](https://github.com/g-faccini/ProjetoFonte/blob/main/Tmin.jpeg)
 
+## Alunos
+
+1. Gustavo Hitomi da Silva
+2. Gustavo Poffo
+3. Gabriel Faccini
+
 
